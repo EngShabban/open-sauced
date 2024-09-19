@@ -60,7 +60,7 @@ function RightSide({timing, rateLimit, repoCount}) {
           </a>
         </li>
         <li>
-          Rate Limit: {rateLimit}
+          Rate  Limit: {rateLimit}
         </li>
       </ul>
     </div>
